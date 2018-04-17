@@ -1,0 +1,16 @@
+.email-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.email-list-email {
+    display: flex;
+    margin: 5px 0;
+}
+
+.email-list-email-from {
+    flex: 0 0 25%;
+    font-weight: bold;
+}
+
